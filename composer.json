@@ -17,11 +17,11 @@
     "yiisoft/yii2": "~2.0.0",
     "yiisoft/yii2-bootstrap": "~2.0.0",
     "rmrevin/yii2-fontawesome": "~2.0",
-    "bower-asset/gentelella": "*"
+    "bower-asset/pb-gentelella": "*"
   },
   "autoload": {
     "psr-4": {
-      "yiister\\gentelella\\": ""
+      "philipdbrown\\gentelella\\": ""
     }
   },
   "extra": {
